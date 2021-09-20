@@ -1,0 +1,41 @@
+
+body,header{
+    padding: 1%;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+img{
+    width: 10%;
+    border-radius: 50%;
+    border-width: 3px;
+    border-style: solid;
+    border-color:blue;
+}
+
+ul{
+    list-style-type: circle;
+}
+
+ol{
+    list-style-type: square;
+}
+
+li{
+    font-style: oblique;
+}
+
+h4{
+    text-decoration: underline;
+}
+
+.title{
+    font-size: 1.5rem;
+}
+
+.footer {
+    height: 60px;
+    background-color: lightslategrey;
+    /* text-align: center; */
+    text-align: center;
+    margin: auto;
+}
