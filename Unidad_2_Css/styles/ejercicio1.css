@@ -1,0 +1,35 @@
+div > h1 {
+    color: white;
+    margin: 0 auto;
+    justify-content: center;
+}
+.container {
+    margin: 25px;
+    padding: 5px;
+    text-align: center;
+}
+
+.cuadrado {
+    width: 600px; 
+    height: 600px; 
+    border: 3px solid #555;
+    margin: 0 auto;
+}
+
+.cuadrado-rojo {
+    width:  200px; 
+    height: 200px; 
+    background-color: red;
+}
+
+.cuadrado-azul {
+    width: 200px; 
+    height: 200px; 
+    background-color: blue;
+}
+
+.cuadrado-verde {
+    width: 200px; 
+    height: 200px; 
+    background-color: green;
+}
