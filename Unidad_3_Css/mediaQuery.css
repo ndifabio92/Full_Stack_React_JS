@@ -1,0 +1,52 @@
+@media only screen and ( max-width: 800px ) {
+
+    body {
+        color: #000;
+        background: #332F29;
+        font-size:100%;
+    }
+
+    #contenedor {
+        width: 800px;
+        background: #8FA68E;
+        margin-right:auto;
+        margin-left:auto;
+        overflow: hidden;
+        display: flex;
+        flex-direction: column;
+    }
+
+    nav {
+        background: #CC3910;
+        float: left;
+        width: auto;
+    }
+
+    ul {
+        list-style-type:none;
+    }
+
+    a {
+        color:#F1F2C0;
+        text-decoration: none;
+    }
+
+    section {
+        background: #F1F2C0;
+        float: left;
+        margin: 0;
+        padding: 1%;
+        width: auto;
+    }
+
+    aside {
+        background: #CCC59E;
+        float: right;
+        width: auto;
+        padding: 1%;
+    }
+
+    li {
+        line-height: 2;
+    }
+}
