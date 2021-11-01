@@ -1,0 +1,22 @@
+.container-services {
+    margin: 2%;
+}
+
+.divTitle {
+    display: flex;
+    justify-content: space-between;
+}
+
+.title {
+    font-size: 2em;
+    font-style: italic;
+    font-weight: 100;
+}
+
+.table-services {
+    margin-top: 2%;
+}
+
+.actions {
+    display: flex;
+}
