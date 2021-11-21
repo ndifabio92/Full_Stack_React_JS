@@ -1,0 +1,27 @@
+.container {
+  margin: 2%;
+  margin-top: 5%;
+  display: flex;
+  justify-content: center;
+}
+
+.item-Navbar {
+  padding-inline: 2%;
+  background-color: seagreen;
+}
+
+.loading {
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  text-align: center;
+}
+
+.container-cart {
+  margin: 2%;
+  margin-top: 10%;
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  text-align: center;
+}
