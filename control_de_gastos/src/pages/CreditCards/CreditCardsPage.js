@@ -1,6 +1,6 @@
 import React from 'react'
 
-export const CreditCards = () => {
+export const CreditCardsPage = () => {
     return (
         <div className="container">
             <h1>Tarjetas de credito</h1>

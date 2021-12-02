@@ -72,8 +72,8 @@ export const Nav = () => {
                             'aria-labelledby': 'management-button',
                         }}
                     >
-                        <MenuItem onClick={ handleClose } component={ Link } to={''}> Agregar Servicio </MenuItem>
-                        <MenuItem onClick={ handleClose } component={ Link } to={''}> Agregar Tarjeta de Credito </MenuItem>
+                        <MenuItem onClick={ handleClose } component={ Link } to={'/services/crud'}> Agregar Servicio </MenuItem>
+                        <MenuItem onClick={ handleClose } component={ Link } to={'/creditcards/crud'}> Agregar Tarjeta de Credito </MenuItem>
                     </Menu>
 
                     <Button component={ Link } to={'/'} color="inherit"> <AccCircleIcon /> Login </Button>

@@ -1,9 +1,9 @@
 import React from 'react'
 
-export const Services = () => {
+export const CreditCardsCrudPage = () => {
     return (
         <div className="container">
-            <h1>Servicios</h1>
+            Alta de tarjetas de credito
         </div>
     )
 }
