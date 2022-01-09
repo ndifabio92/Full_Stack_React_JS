@@ -25,3 +25,11 @@ El status no es necesario para la creacion a menos que se quiera crear un usuari
 Para eliminar un usuario se tiene que agregar el token en la cabeza para poder eliminar.
 
 `x-token: {token}`
+
+
+#### POST - AUTH
+> http://localhost:8000/api/auth/login
+`{
+    "email": "email",
+    "password": "email"
+}`
